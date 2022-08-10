@@ -9,3 +9,10 @@
   font-size: 20pt;
   box-sizing: border-box;
 }
+
+.centered-image {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
+}
